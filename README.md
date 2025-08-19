@@ -11,10 +11,8 @@ It provides insights into **sales trends, top-performing products, KPIs, and cus
 - Power Query (data cleaning & transformation)  
 - Pivot Tables & Pivot Charts  
 - Excel Formulas (SUMIFS, COUNTIF, AVERAGE, IF, etc.)  
-- KPI Metrics & Conditional Formatting  
-
----
-
+- KPI Metrics & Conditional Formatting
+- 
 ## 📊 Dashboard Features  
 
 ✅ **1. Sales Overview**  
@@ -36,8 +34,6 @@ It provides insights into **sales trends, top-performing products, KPIs, and cus
 - Line, Bar, and Column charts for trends  
 - Clean and professional design for quick insights  
 
-
-
 ## 🧪 Getting Started  
 
 1. Download **Adidas_Sales_Dashboard.xlsx**  
@@ -47,10 +43,6 @@ It provides insights into **sales trends, top-performing products, KPIs, and cus
    - **Data** → Cleaned dataset used for analysis  
    - **Pivot Tables** → Aggregated calculations for dashboard  
 4. Use slicers/filters to explore sales by region, month, or product.  
-
-
-## 📸 Dashboard Preview  
-(Add your screenshot here after uploading – e.g., `![Dashboard Screenshot](dashboard.png)`)  
 
 ## 📌 About  
 This project demonstrates the use of **Excel for business analytics** with a real-world dataset (Adidas Sales).  
